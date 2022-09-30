@@ -10,5 +10,8 @@ Assuming you have [Flutter SDK](https://docs.flutter.dev/get-started/install) in
 - Open the [API keys](https://home.openweathermap.org/api_keys) page and copy the key or generate a new one.
 - Now go to `lib/store.dart` and replace `YOUR_API_KEY`.
 
+### Demo
+
+https://user-images.githubusercontent.com/60504285/193267962-97b21a5e-a4fd-4075-901a-7bdedc6c14be.mp4
 
 
